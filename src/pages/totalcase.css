@@ -6,4 +6,11 @@
 }
 .totalcase h6{
     margin: 10px;
+    background-color: lightpink;
+    padding: 10px;
+}
+.totalcase p{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
 }
